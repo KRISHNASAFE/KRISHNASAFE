@@ -4,10 +4,12 @@
 - Will make mistakes but will never stop trying.
   
 - 🌱 I’m currently working.
-- 💞️ I’m looking to collaborate on AI, ML, Python, Data Science, DEVOPS. 
+- 💞️ I’m looking to collaborate on AI, ML, Python, Data Science, DEVOPS, DEVSECOPS. 
 - 📫 How to reach me ...
 - mail @ whatsbackmy@gmail.com to connect.
- OR
+
+OR
+
 - Let's connect on <img width="38" height="33" alt="image" src="https://github.com/user-attachments/assets/2a3665d2-983a-4f9f-adc8-547b30b1bd21" />.
 
 - 😄 Pronouns: ...
