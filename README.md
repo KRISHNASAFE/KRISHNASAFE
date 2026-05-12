@@ -1,4 +1,29 @@
-- 👋 Hi, I’m @KRISHNASAFE
+- 👋 Hi, I’m Chirag
+🚀 DevOps & Cloud Enthusiast  
+☁️ Learning AWS, Terraform, Docker, Kubernetes, CI/CD  
+⚙️ Passionate about Automation & Infrastructure as Code  
+🐍 Python | Node.js | Linux | GitHub Actions
+
+
+## Skills
+- AWS
+- Terraform
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+- Linux
+- Python
+- Node.js
+
+## Featured Projects
+- CI/CD Pipelines using GitHub Actions
+- Infrastructure Automation with Terraform
+- Python Automation Scripts
+- Node.js Utility Projects
+
+
+
 - 👀 I’m interested in Coding, Development, latest technologies.
 - Would love to be a part of community, Will learn and develope and contribute.
 - Will make mistakes but will never stop trying.
